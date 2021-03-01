@@ -1,0 +1,7 @@
+Edad: 19 años.
+
+¿Se puede realizar un commit después de crear una carpeta vacía? 
+R/: No se puede realizar un commit al crear una carpeta porque github no considera las carpetas vacías como cambios del proyecto.
+
+¿Por qué ahora si se muestra la carpeta junto al nuevo archivo?
+R/: Porque al crear o modificar el nuevo archivo y guardarlo en la carpeta vacía, github sí considera está acción como un cambio en el proyecto.
